@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Argyanto Daiswara Patampang (Argy)</h1>
+<h1 align="center">Hey, I'm Argyanto Daiswara</h1>
 
 <p align="center">
   I'm a <strong>Informatics Student at University of Amikom Yogyakarta</strong>. Eager to learn something new every day. Currently busy crafting <strong>useful web apps</strong> 🌐 
