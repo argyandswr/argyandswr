@@ -19,9 +19,9 @@
   <li>ML/AI: Python, Machine Learning basics</li>
 </ul>
 
-## GitHub Stats:
+## My Stats:
 
-<p align="left">
+<p align="left" width="200px">
   <img src="https://github-readme-stats.vercel.app/api?username=argyandswr&show_icons=true&theme=dark&rank_icon=github" alt="Argy's GitHub Stats" />
 </p>
 
