@@ -8,7 +8,7 @@
 ## About Me:
 <ul>
   <li>📚 Interests: FullStack Development and Machine Learning</li>
-  <li>🚀 Learning: Currently deep diving into **Web Development** and **Machine Learning**.</li>
+  <li>🚀 Learning: Currently deep diving into Fullstack Web Development and Machine Learning.</li>
   <li>⚡ Fun Fact: I'm a part-timer IT stud, full-timer Nakama 🏴‍☠️. Also loves Pikachu so bad! ⚡️🐁 (You can guess it when seeing my pfp hehe)</li>
 </ul>
 
@@ -21,11 +21,11 @@
 
 ## GitHub Stats:
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=argyandswr&show_icons=true&theme=dark&rank_icon=github" alt="Argy's GitHub Stats" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=argyandswr&layout=compact&theme=dark" alt="Argy's Most Used Languages" />
 </p>
 
