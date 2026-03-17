@@ -2,14 +2,14 @@
 
 <p align="center">
   I'm a <strong>Informatics Student at University of Amikom Yogyakarta</strong>. Eager to learn something new every day. Currently busy crafting <strong>useful web apps</strong> 🌐 
-  and acting as a <strong>private tutor for machines</strong> 🤖—literally teaching them how to learn.
+  and acting as a <strong>private tutor for machines</strong> 🤖, i'm literally teaching them how to learn.
 </p>
 
 ## About Me:
 <ul>
   <li>📚 Interests: FullStack Development and Machine Learning</li>
   <li>🚀 Learning: Currently deep diving into **Web Development** and **Machine Learning**.</li>
-  <li>⚡ Fun Fact: I'm a part-timer IT stud, full-timer Nakama 🏴‍☠️. Also loves Pikachu so bad! ⚡️🐁</li>
+  <li>⚡ Fun Fact: I'm a part-timer IT stud, full-timer Nakama 🏴‍☠️. Also loves Pikachu so bad! ⚡️🐁 (You can guess it when seeing my pfp hehe)</li>
 </ul>
 
 ## Tech Stack & Tools:
