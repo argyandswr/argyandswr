@@ -14,20 +14,19 @@
 
 ## Tech Stack & Tools:
 <ul>
-  <li>Front-End: **HTML, CSS, Tailwind, JavaScript, TypeScript, React (Learning)**</li>
-  <li>Back-End: **Node.js (Learning)**</li>
-  <li>ML/AI: **Python, Machine Learning basics**</li>
-  <li>Tools: **Git & GitHub, VS Code**</li>
+  <li>Front-End: HTML, CSS, Tailwind, JavaScript, TypeScript, React (Learning)</li>
+  <li>Back-End: Node.js (Learning)</li>
+  <li>ML/AI: Python, Machine Learning basics</li>
 </ul>
 
 ## GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_LO&show_icons=true&theme=dark&rank_icon=github" alt="Argy's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=argyandswr&show_icons=true&theme=dark&rank_icon=github" alt="Argy's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_LO&layout=compact&theme=dark" alt="Argy's Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=argyandswr&layout=compact&theme=dark" alt="Argy's Most Used Languages" />
 </p>
 
 ## 📫 Let's Connect!
